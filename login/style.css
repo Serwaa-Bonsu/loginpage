@@ -1,0 +1,88 @@
+body{
+    margin: 100px auto 50px auto;
+    text-align: center;
+    font-family: Roboto,HelveticaNeue,Arial,sans-serif;
+    white-space: normal;
+    background: url(images/backgroundpink.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#heading{
+    color: #FF0096;
+    text-shadow: 0 0 3px rgba(173, 86, 153, 0.842);
+
+}
+
+.form{
+    border: 1px solid #fff;
+    margin: 30px auto 0 auto;
+    background-color: #aa6b9741;
+    width: 300px;
+    height: 200px;
+    padding: 30px 40px;
+    font-size: small;
+
+}
+
+#avatar{
+    width: 30px;
+
+}
+
+#padlock{
+    width: 20px;
+    height: 15px;  
+
+}
+
+#box{
+    width: 250px;
+    line-height: 25px;
+    border: none;
+    box-shadow: 1px 1px #aca7a75d;
+
+}
+
+#description{
+    display: flex;
+    
+}
+
+#pin{
+    display: flex;
+    flex-direction: row;  
+
+}
+
+.pswd{
+    padding-left: 90px;  
+
+}
+
+#btn{
+    width: 250px;
+    height: 25px;
+    background-color: #FF0096;
+    border: none;
+    color: #fff;
+    margin-top: 10px;
+
+}
+
+#show{
+    text-align: left;
+
+}
+
+#note{
+    padding-top: 35px;
+    color: #FF0096;
+    font-size: smaller;
+    text-shadow: 0 0 1px rgb(8, 4, 4);
+}
+
+
